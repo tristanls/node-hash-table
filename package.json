@@ -1,0 +1,26 @@
+{
+  "name": "hash-table",
+  "version": "0.1.0",
+  "description": "Hash table",
+  "scripts": {
+    "test": "node scripts/test.js"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "universal-hash-function": "0.1.0"
+  },
+  "devDependencies": {
+    "nodeunit": "0.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tristanls/node-hash-table.git"
+  },
+  "keywords": [
+    "hash table",
+    "datastructure",
+    "data structure"
+  ],
+  "author": "Tristan Slominski <tristan.slominski@gmail.com>",
+  "license": "MIT"
+}
